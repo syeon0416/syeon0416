@@ -1,12 +1,14 @@
-### Hi there 👋
- Hi there! I’m artificial intelligence developer using PyTorch and TensorFlow.
+<a href="https://www.facebook.com/profile.php?id=100059762720164/" target="_blank"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/syeon0416/" target="_blank"><img src="https://img.shields.io/badge/instagram-e4405f?style=flat&logo=instagram&logoColor=white"/></a>
 
+👋 Hi there! I'm working for MUESLI Co., Ltd. and **developing artificial intelligence** using Pytorch and Keras (+Tensorflow). 
+</br>Sometimes I **design User Interface/User Experience** or **Brand Experience**, but I prefer to develop.
 
+</br>
+</br>
+</br>
 
-<!--
 ![syeon0416's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeon0416&show_icons=true&theme=Default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeon0416&layout=compact&theme=Default&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <!--
 **syeon0416/syeon0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
