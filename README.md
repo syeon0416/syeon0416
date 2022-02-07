@@ -1,6 +1,5 @@
 <a href="https://www.facebook.com/profile.php?id=100059762720164/" target="_blank"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/syeon0416/" target="_blank"><img src="https://img.shields.io/badge/instagram-e4405f?style=flat&logo=instagram&logoColor=white"/></a>
-
-👋 Hi there! I'm working for MUESLI Co., Ltd. and **developing artificial intelligence** using Pytorch and Keras (+Tensorflow). 
+</br>Hi there! I'm working for MUESLI Co., Ltd. and **developing artificial intelligence** using Pytorch and Keras (+Tensorflow). 
 </br>Sometimes I **design User Interface/User Experience** and **Brand Experience**, but I prefer to develop.
 
 <!--
