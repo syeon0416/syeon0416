@@ -1,4 +1,6 @@
 ### Hi there 👋
+ Hi there! I’m artificial intelligence developer using PyTorch and TensorFlow.
+
 
 
 <!--
