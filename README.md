@@ -11,11 +11,8 @@ I enjoy taking pictures and playing games.
 #### Tools
 <img src="https://img.shields.io/badge/Anaconda-44a833?style=flat&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-f37626?style=flat&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/>
 
-
-<!--
+#### Stats
 ![syeon0416's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeon0416&show_icons=true&theme=Default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeon0416&layout=compact&theme=Default&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <!--
 **syeon0416/syeon0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
